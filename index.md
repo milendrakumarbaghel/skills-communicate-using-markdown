@@ -33,4 +33,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, world!";
 console.log(myVar);
+```
+
+## My Project Task List
+
+- [x] Add headers
+- [x] Add a code example
+- [ ] Add a task list
+- [ ] Celebrate completion 🎉
 
